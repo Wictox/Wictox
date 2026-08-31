@@ -11,7 +11,7 @@ learning projects and I keep them public so you can follow along.
 **Working with:** Python · Node.js · JavaScript · C · C++ · Docker ·
 Linux & the terminal · Unity · SQL · PostgresSQL · VMs
 
-**Currently going deeper on:** DevOps, automation, and security
+**Currently going deeper on:** Backend, DevOps, automation, and security.
 
 **Favorite thing I've built:** [MPT_simulation](https://github.com/Wictox/MPT_Simulation_PPP)
 
