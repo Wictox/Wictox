@@ -22,7 +22,10 @@ or infra work.
 
 ---
 
-<sub>Code Geass is my favorite anime. I spent most of my childhood
-gaming — Fortnite and LoL mostly — and got a little obsessed with
-squeezing performance out of a very underpowered PC. I still learn
-best from YouTube.</sub>
+### A Bit About Me
+
+- 🎮 Spent most of my childhood gaming — Fortnite and LoL mostly
+- ⚙️ Got a little obsessed with squeezing performance out of a very underpowered PC
+- 📺 Into anime — Code Geass is my favorite
+- ▶️ I learn best from YouTube
+- 🔨 I like building things end to end, not stopping halfway
