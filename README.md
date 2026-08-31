@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi, I'm Ismail Chamsy 👋
 
-<!--
-**Wictox/Wictox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering student at INPT (Morocco), specializing in cloud, IoT,
+and distributed systems.
 
-Here are some ideas to get you started:
+I work mostly on backend and infrastructure. This year I'm going
+deep on distributed systems and DevOps, and building a project
+around each thing I learn. Most of my repos are
+learning projects and I keep them public so you can follow along.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Working with:** Python · Node.js · JavaScript · C · C++ · Docker ·
+Linux & the terminal · Unity · SQL · PostgresSQL · VMs
+
+**Currently going deeper on:** DevOps, automation, and security
+
+**Favorite thing I've built:** [MPT_simulation](https://github.com/Wictox/MPT_Simulation_PPP)
+
+Open to collaborating on anything interesting, especially backend, GameDev
+or infra work.
+
+📫 [LinkedIn](https://www.linkedin.com/in/ismail-chamsy-9a6a44356/)
+
+---
+
+<sub>Code Geass is my favorite anime. I spent most of my childhood
+gaming — Fortnite and LoL mostly — and got a little obsessed with
+squeezing performance out of a very underpowered PC. I still learn
+best from YouTube.</sub>
