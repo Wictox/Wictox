@@ -15,7 +15,7 @@ Linux & the terminal · Unity · SQL · PostgresSQL · VMs
 
 **Favorite thing I've built:** [MPT_simulation](https://github.com/Wictox/MPT_Simulation_PPP)
 
-Open to collaborating on anything interesting, especially backend, GameDev
+Open to collaborating on anything interesting, especially backend, GameDev, Cloud
 or infra work.
 
 📫 [LinkedIn](https://www.linkedin.com/in/ismail-chamsy-9a6a44356/)
